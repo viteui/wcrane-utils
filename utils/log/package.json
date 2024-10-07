@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.yarnpkg.com/"
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,9 @@
   },
   "bugs": {
     "url": "https://github.com/viteui/wcrane-utils/issues"
+  },
+  "gitHead": "9b418e878c9917e691ec7ca49347d7f4304d4357",
+  "dependencies": {
+    "chalk": "^5.3.0"
   }
 }
